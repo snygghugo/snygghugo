@@ -2,6 +2,7 @@
 <h3 align="center">A full-stack JS dev who loves the internet</h3>
 
 - My current project is [rewriting this bad boy into TypeScript](https://github.com/Laggan-Gang/ShortStack)
+- [Check it out!](https://github.com/snygghugo/ShortStack)
 
 - 🌱 I’m currently learning **ThreeJS**
 
